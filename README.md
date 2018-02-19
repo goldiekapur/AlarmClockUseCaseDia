@@ -1,4 +1,4 @@
-#Joshua McEwen
+# Joshua McEwen
 
 Suppose we want to develop software for an alarm clock.
 
@@ -8,4 +8,4 @@ It is possible to set one or two alarms. When an alarm fires, it will sound some
 
 Identify the top-level functional requirement for the clock, and model it with a use case diagram.  (Use case description will come later.  Only create the use case diagram now.)
 
-![https://github.com/jsho574/AlarmClockUseCaseDia/edit/newStuff/alarmClock.png]
+![](https://github.com/jsho574/AlarmClockUseCaseDia/blob/master/alarmClock.png "use case diagram")
